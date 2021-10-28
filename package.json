@@ -1,0 +1,29 @@
+{
+  "name": "simple_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangtin26/Simple_Nodejs_CRUD.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "dv2uang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangtin26/Simple_Nodejs_CRUD/issues"
+  },
+  "homepage": "https://github.com/quangtin26/Simple_Nodejs_CRUD#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
